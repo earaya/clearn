@@ -6,7 +6,7 @@ Because everyone should know C. Trust me, it'll be good for you; a lot of stuff 
 
 ## What?
 
-Samples and excercises from "The C Programming Language". I've annotated the code (with comments) to explain and expound on some of the more interesting points of C.
+Samples and exercises from "The C Programming Language". I've annotated the code (with comments) to explain and expound on some of the more interesting points of C.
 
 ## How?
 
